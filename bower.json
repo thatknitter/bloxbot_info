@@ -1,0 +1,10 @@
+{
+  "name": "bloxbot_info",
+  "homepage": "https://github.com/thatknitter/bloxbot_info",
+  "authors": [
+    "Kimberly Lewis <kblewis.flt@gmail.com>"
+  ],
+  "description": "info page for bloxbot",
+  "main": "index.html",
+  "license": "MIT"
+}
